@@ -1,2 +1,4 @@
 ﻿  HelloWorld.cpp
+C:\Users\rex-b\source\repos\CCCOMP-1-2\HelloWorld\HelloWorld\HelloWorld.cpp(28,9): warning C4101: 'b': variable local sin referencia
+C:\Users\rex-b\source\repos\CCCOMP-1-2\HelloWorld\HelloWorld\HelloWorld.cpp(29,9): warning C4101: 'suma': variable local sin referencia
   HelloWorld.vcxproj -> C:\Users\rex-b\source\repos\CCCOMP-1-2\HelloWorld\Debug\HelloWorld.exe
