@@ -55,7 +55,34 @@ int main()
     std::cout << "El resultado de la multiplicacion es : " << multi << std::endl;
 
     
- 
+#include <iostream>
+
+    using namespace std;
+
+    int main()
+    ( int a, b, c;
+
+        cout << "dame 3 numero: " << endl;
+        cin >> a;
+        cin >> b;
+        cin >> c;
+
+        if (a > b && a > c)
+        {
+            cout << a << " es el mayor" << endl;
+        }
+        else if (b > a && b > c)
+        {
+            cout << b << " es el mayor" << endl;
+        }
+        else
+        {
+            cout << c << " es el mayor" << endl;
+        }
+
+
+        return 0;
+    }
 
 
     return 0;
